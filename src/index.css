@@ -1,0 +1,23 @@
+img {
+    width: 400px !important;
+}
+.card-header,ul , .card {
+    width:  400px !important;
+}
+.card-body{
+    width: 400px !important;
+}
+
+.card{
+    margin-left: 35rem;
+    margin-top: 10rem;
+}
+.correct{
+   background-color: aquamarine !important;
+}
+.wrong{
+  background-color: rgb(255, 218, 218) !important;
+}
+.btn{
+    border: 2px solid rgb(0, 204, 255) !important;
+}
